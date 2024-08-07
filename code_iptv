@@ -80,7 +80,7 @@
         "image": "https://img2.rtve.es/i/?w=1600&i=1704452073904.jpg",
        	"imageScale": "",
         "info":"",
-        "stations":
+        "groups":
             [
 				{
                     "name": "Final",
@@ -155,9 +155,25 @@
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZ1xlIjCHXkMYFRD8AHD1xxk-y6dylFMR2_lD0wuNsmqhUzFE2SgOnFrcDJbAcU_Z9aDM64zyo1vQ3Zrdsa8I8yoz9Vwg0_s-9SNqXo76-HezJzRX3EXzGqykbGH5dCKN-S8LG_3tV0BdmhUU59RROfDIeECOMCi4eDvjZJ6F_oDrZes9kJ693dgcpv3H/w655-h368/logo-Champions.png",
        	"imageScale": "",
         "info":"",
-        "stations":
+        "groups":
             [
-                {
+               {
+                    "name": "",
+                    "info":"",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
                     "name": "Final",
                     "info":"",
                     "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
