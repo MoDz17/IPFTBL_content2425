@@ -1,0 +1,312 @@
+{
+    "name": "DIFERIDOS Fútbol 24/25",
+    "author": "MoDz",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+    "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de Fútbol 24/25",
+    "telegram": "",
+    "url": "https://raw.githubusercontent.com/MoDz17/IPFTBL_content2425/main/code_iptv",
+    "groups": [
+        
+    {
+           "name": "IPT - ADICTOS",
+           "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+           "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
+           "import": false
+    }, 
+   
+    {
+            "name": "Ultm. versión 07/08/2024",
+           "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
+           "info": "última versión actualizada el 07/08/2024",
+           "stations": []
+    },
+
+    {
+        "name": "Supercopa Europa",
+        "image": "https://img.uefa.com/imgml/uefacom/scup/social/og-default.jpg",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                "name": "",
+	            "info":"",
+                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                "url":"",
+                "isHost":"false",
+                "online":"false"
+                }
+			]
+    },
+
+    {
+        "name": "Supercopa España",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqsmlVJijgdhc2xqqDRNtB1XrNaUnzGdKSKsjHLmrlQIm500iAummARqhpW0l7zz6uznQjw0hw1SPuPJBcNTa3U40GMgPfMjhsMNEVKkEfWbSOzHM_ELxmBX2U1CHxg1EzdZoWXI7cM3Mg8dwyJTlqCLI3XX_-CphL-mRuReX1Yo7PM9CUXPjvCIw4xJtn/w652-h367/logo-SupercopaEspa%C3%B1a.png",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                "name": "",
+	            "info":"",
+                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                "url":"",
+                "isHost":"false",
+                "online":"false"
+                }
+			]
+    },
+
+    {
+        "name": "LaLiga",
+        "image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                "name": "",
+	            "info":"",
+                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                "url":"",
+                "isHost":"false",
+                "online":"false"
+                }
+			]
+    },
+
+    {
+        "name": "Copa del Rey",
+        "image": "https://img2.rtve.es/i/?w=1600&i=1704452073904.jpg",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                    "name": "Final",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "Semifinales (vuelta)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "Semifinales (ida)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "4ºs de final",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }
+			]
+    },
+
+    {
+        "name": "Champions League",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZ1xlIjCHXkMYFRD8AHD1xxk-y6dylFMR2_lD0wuNsmqhUzFE2SgOnFrcDJbAcU_Z9aDM64zyo1vQ3Zrdsa8I8yoz9Vwg0_s-9SNqXo76-HezJzRX3EXzGqykbGH5dCKN-S8LG_3tV0BdmhUU59RROfDIeECOMCi4eDvjZJ6F_oDrZes9kJ693dgcpv3H/w655-h368/logo-Champions.png",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                    "name": "Final",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "Semifinales (vuelta)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "Semifinales (ida)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "4ºs de final (vuelta)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                            [
+                                {
+                                    "name": "",
+                                    "info":"",
+                                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                    "url":"",
+                                    "isHost":"false",
+                                    "online":"false"
+                                }
+                            ]
+                }, {
+                    "name": "4ºs de final (ida)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                        [
+                            {
+                                "name": "",
+                                "info":"",
+                                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                "url":"",
+                                "isHost":"false",
+                                "online":"false"
+                            }
+                        ]
+                }, {
+                    "name": "8ºs de final (vuelta)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                        [
+                            {
+                                "name": "",
+                                "info":"",
+                                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                                "url":"",
+                                "isHost":"false",
+                                "online":"false"
+                            }
+                        ]
+                }, {
+                    "name": "8ºs de final (ida)",
+                    "info":"",
+                    "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                    "imageScale": "",
+                    "stations":
+                        [
+                            {
+                            "name": "",
+                            "info":"",
+                            "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                            "url":"",
+                            "isHost":"false",
+                            "online":"false"
+                            }
+                        ]
+                    }
+			]
+    },
+
+    {
+        "name": "Europa League",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlGSmC0a-TYiwryz5v5PD0MvbJQXttRq37v4Z90-LWQ4z_hID8XurcHS229S-imaZ-uothf200JPGvKYBMEMmwr4VrP1XaZKREZ0H0CrM97kb4TkDlg9kg3HVSRtwRTSEcEUkNgvhF4bPGtSiDvoeQEBwelWtABlWJbn28-WfC-wkEQaxJjyaB-zTiyhf/w651-h433/logo-Europa.png",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                "name": "",
+	            "info":"",
+                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                "url":"",
+                "isHost":"false",
+                "online":"false"
+                }
+			]
+    },
+
+    {
+        "name": "Otros",
+        "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",
+       	"imageScale": "",
+        "info":"",
+        "stations":
+            [
+				{
+                "name": "",
+	            "info":"",
+                "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
+                "url":"",
+                "isHost":"false",
+                "online":"false"
+                }
+			]
+    }
+  ]
+}
