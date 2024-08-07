@@ -82,7 +82,14 @@
         "info":"",
         "groups":
             [
-				{
+		{
+                    "name": "",
+                    "info":"",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+                    "imageScale": "",
+                    "stations":
+                            []
+                }, {
                     "name": "Final",
                     "info":"",
                     "image": "https://i.ibb.co/XC8bnHX/logo-soon.png",
@@ -163,16 +170,7 @@
                     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
                     "imageScale": "",
                     "stations":
-                            [
-                                {
-                                    "name": "",
-                                    "info":"",
-                                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
-                                    "url":"",
-                                    "isHost":"false",
-                                    "online":"false"
-                                }
-                            ]
+                            []
                 }, {
                     "name": "Final",
                     "info":"",
